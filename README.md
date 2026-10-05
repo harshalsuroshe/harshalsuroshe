@@ -26,3 +26,19 @@ I enjoy working with data, solving practical problems, and building projects tha
 - PyTest
 - Git & GitHub
 - CI/CD
+
+## 📊 Featured Projects
+
+### 🛒 Retail Data Analytics
+**SQL | Python | Pandas | Power BI**
+
+End-to-end data analytics project focused on exploring retail sales data, identifying business insights, and building an interactive Power BI dashboard.
+
+**What I worked on:**
+- Data cleaning and preparation using Python and Pandas
+- SQL-based business analysis
+- KPI and metric development
+- Interactive Power BI dashboard
+- Business-focused insights and visualizations
+
+🔗 [View Project Repository](#)
