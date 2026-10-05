@@ -42,3 +42,24 @@ End-to-end data analytics project focused on exploring retail sales data, identi
 - Business-focused insights and visualizations
 
 🔗 [View Project Repository](#)
+
+## 🎓 Education
+
+**B.Tech in Computer Science**  
+Pimpri Chinchwad College of Engineering (PCCOE), Pune  
+2022 – 2026
+
+## 📜 Certifications
+
+- **Deloitte Data Analytics Virtual Experience Program**
+  - Data analysis and visualization
+  - Tableau
+  - SQL
+
+  ## 🚀 Currently Working On
+
+- Building practical Data Analytics projects
+- Strengthening advanced SQL and Python
+- Learning API testing and software testing
+- Building QA automation skills with Selenium and Playwright
+- Learning Git, GitHub, and collaborative development workflows
