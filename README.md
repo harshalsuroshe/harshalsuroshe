@@ -66,16 +66,24 @@ I'm a Computer Science graduate building practical skills across software develo
 
 ## 🚀 Featured Projects
 
-### 🛒 E-commerce Customer Analytics
-**SQL · Python · Pandas · Power BI**
-
-An end-to-end analytics project exploring e-commerce sales, customer behavior, retention, and delivery performance.
-
-- Data quality checks and exploratory analysis
-- SQL-based business analysis
-- Interactive Power BI dashboard
-
-[![Explore Repository](https://img.shields.io/badge/Explore-Project-2ea44f?style=for-the-badge&logo=github)](https://github.com/harshalsuroshe/ecommerce-customer-analytics)
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🛒 E-commerce Customer Analytics</h3>
+      <p>End-to-end analytics project exploring customer behavior, sales, retention, and delivery performance.</p>
+      <p><strong>Tech:</strong> SQL · Python · Pandas · Power BI</p>
+      <a href="https://github.com/harshalsuroshe/ecommerce-customer-analytics">
+        <img src="https://img.shields.io/badge/Explore_Project-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Explore project"/>
+      </a>
+    </td>
+    <td width="50%">
+      <h3>☕ Java Backend Development</h3>
+      <p>Currently building skills in Java, OOP, Spring Boot, REST APIs, and database integration.</p>
+      <p><strong>Focus:</strong> Backend · APIs · SQL</p>
+      <img src="https://img.shields.io/badge/Coming_Soon-6c757d?style=for-the-badge" alt="Coming soon"/>
+    </td>
+  </tr>
+</table>
 
 ## 🌱 Currently Learning
 
