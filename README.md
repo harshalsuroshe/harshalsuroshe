@@ -76,6 +76,14 @@ An end-to-end analytics project exploring e-commerce sales, customer behavior, r
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=harshalsuroshe&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub statistics"/>
+
+
+## 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/harshalsuroshe/harshalsuroshe/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+</p>
+
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshalsuroshe&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 </p>
 
