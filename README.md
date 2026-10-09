@@ -4,14 +4,22 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Computer+Science+Student;Java+%7C+Python+%7C+SQL;Exploring+Backend+Development;Building+Projects+and+Learning+Every+Day" alt="Animated introduction" />
 </p>
 
+
 <p align="center">
   <a href="https://github.com/harshalsuroshe">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="[https://www.linkedin.com/](https://www.linkedin.com/in/harshal-suroshe-0438a3259/?isSelfProfile=true)">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/harshal-suroshe-0438a3259/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="mailto:tsuroshe2003@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <!-- </a>
+    <a href="YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-6C47FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+  </a> -->
 </p>
+
 
 ---
 
